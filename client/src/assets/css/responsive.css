@@ -1,0 +1,166 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+
+    /* CSS */
+
+}
+
+/* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+
+@media (min-width: 1024px) and (max-width: 1280px) {
+
+}
+
+/* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+}
+
+/* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+    /* CSS */
+
+}
+
+/* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+    /* CSS */
+
+}
+
+/* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    /* CSS */
+
+}
+
+
+/* Extra Small Devices, Phones */
+@media  (max-width : 400px) {
+  .invest-profit{
+    flex-direction: column;
+  }
+  .normal-box .inner-main .inner{
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+}
+@media  (max-width : 480px) {
+  .mobile-none{
+    display: none !important;
+  }
+  .flex-text-between h3{
+    font-size: 16px;
+  }
+  .statistic-list li span {
+    font-size: 13px;
+  }
+  .bot-status-filter {
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .bot-status-filter .form-group:not(:first-child){
+    margin-left: 0 !important;
+    max-width: 50%;
+  }
+  .main-flex {
+    flex-direction: column;
+}
+.main-flex .inner {
+  width: 100%;
+}
+.swap-detail {
+  margin-top: 1rem;
+}
+.normal-text-main p {
+  font-size: 20px;
+  line-height: 32px;
+}
+  .section {
+    padding: 2rem 0.5rem;
+}
+.table1{
+  overflow: auto;
+}
+.table1 tr th{
+  white-space: nowrap;
+}
+.balance-section .coin-detail h3 {
+  font-size: 20px;
+}
+.chart-flex{
+  flex-direction: column;
+}
+.profit-loss-tab ul li a{
+  font-size: 14px;
+}
+.custom-box h3{
+  font-size: 20px;
+}
+.primary-head {
+  font-size: 22px;
+}
+.normal-box .inner-main{
+  flex-wrap: wrap;
+}
+.normal-box .inner-main .inner{
+  max-width: 50%;
+  width: 50%;
+}
+}
+
+@media  (max-width : 400px) {
+   
+}
+
+/* Tablets */
+@media  (max-width : 767px) {
+  .chart-filter ul {
+    display: -webkit-box;
+    overflow: auto;
+    padding-bottom: 1rem;
+}
+}
+
+
+/* Tablets */
+@media  (max-width : 991px) {
+/* sidebar  */
+.custom-sidebar{
+  position: fixed !important;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+
+}
+@media (min-width:992px){
+
+    
+}

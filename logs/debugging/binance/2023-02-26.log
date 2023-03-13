@@ -1,0 +1,7 @@
+Date: 2023-02-26T14:05:25.250Z ### 	{"side":"buy","setting_id":"63fb671b25b73b112efc5e88","price":"23235.47000000","qty":"0.00047300","size":"10.99037731"}
+Date: 2023-02-26T14:07:46.168Z ### 	Double Selling Called
+Date: 2023-02-26T14:10:39.166Z ### 	Double Selling Called
+Date: 2023-02-26T15:19:21.721Z ### 	{"side":"buy","setting_id":"63fb7878ace9b7278f418aee","price":23194,"qty":0.001,"size":0.1}
+Date: 2023-02-26T15:21:00.703Z ### 	{"side":"buy","setting_id":"63fb7878ace9b7278f418aef","price":23201,"qty":0.001,"size":0.1}
+Date: 2023-02-26T15:23:38.861Z ### 	{"side":"sell","setting_id":"63fb7878ace9b7278f418aef","price":23211,"size":0.15,"profit":0.04999999999999999,"investment":30,"oldQty":0.1,"availableBalance":30.05}
+Date: 2023-02-26T15:25:18.260Z ### 	{"side":"buy","setting_id":"63fb7878ace9b7278f418aef","price":23201,"qty":0.001,"size":0.1}

@@ -1,0 +1,36 @@
+
+.black-border {
+}
+
+.Box {
+    position: relative;
+    height: 30px;
+    width: 100%;
+    display: table-cell;
+    align-content: center;
+}
+
+.DraggableWrapper{
+    height: 30px;
+}
+
+.Draggable {
+    position: relative;
+    z-index: 2;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    background: url('../../public/images//drag.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.FillBar{
+    position: absolute;
+    z-index: 1;
+    top: 7px;
+    display: block;
+    height: 15px;
+    background-color: #2A2A2A !important;
+    max-width: 100%;
+}
